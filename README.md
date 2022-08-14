@@ -1,4 +1,4 @@
-INSTRUCTIONS FOR "Variable and Reference Star Locator (VaRSL)"					
+					    INSTRUCTIONS FOR "Variable and Reference Star Locator (VaRSL)"					
          				 		          -By Caleb Derochea						
 																
 
@@ -45,7 +45,11 @@ HOW TO RUN THE CODE:
 
 	(Note for Mac and Linux users: you may have to replace the lines of code for the GUI that is being used. If I get emails regarding this issue, I will provide another .txt file with the lines of code needed to replace it.)
 
-	After a few seconds of running the code, a GUI should pop up with a similar layout to File Explorer. If the GUI does not appear, look for a new icon in your Taskbar and click it to open the GUI. Then, navigate through it to get to the CSV files I provided. Open up the "All Nights In One" file. After a few more seconds, the GUI will allow you to select another file. For this one, select "Vizier Mags." That is a file of the cataloged magnitudes of each star from VizieR which can be found using the Aladin software... which I'll go into more detail about later.
+	After a few seconds of running the code, a GUI should pop up with a similar layout to File Explorer. If the GUI does not appear, look for a new icon in your Taskbar and click it to open the GUI. Then, navigate through it to get to the CSV files I provided. Open up the "All Nights In One" file.
+	
+	If the "All Nights In One" file takes too long for your computer to process, then try selecting any of the other nights provided. 
+	
+	After a few seconds, the GUI will allow you to select another file. For this one, select "Vizier Mags." That is a file of the cataloged magnitudes of each star from VizieR which can be found using the Aladin software... which I'll go into more detail about later.
 	
 	A plot of the data should pop up. (Keep in mind that this sort of data analysis in Excel would probably take a few hours for a person to do with this amount of data, and we have just done it IN SECONDS!) Analyze the graph. You'll notice that you can move it around and zoom in. While you're looking at it, you'll notice that the point labeled "1" seems to be the farthest away from the line of best fit. THAT is the data from the variable star TZ Aurigae. Let's just focus on that star for the time being. 
 
