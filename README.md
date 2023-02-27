@@ -1,7 +1,7 @@
 					    INSTRUCTIONS FOR "Variable and Reference Star Locator (VaRSL)"					
          				 		          -By Caleb Derochea						
 																
-
+The work in this code is based on the paper "Differential Ensemble Photometry by Linear Regression" by Kevin Paxson, published in 2010 in JAAVSO Volume 38.
 
 INTRODUCTION:
 
